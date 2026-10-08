@@ -3,8 +3,6 @@ import json
 
 github_token = "xxxxxxxxxx"
 
-#$env:GITHUB_TOKEN="xxxxxxxxxx"
-
 # Multiple GitHub organizations
 organizations = [
     "dasaridevsecops"

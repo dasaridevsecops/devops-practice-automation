@@ -1,7 +1,7 @@
 import os
 import requests
 
-github_token = "xxxxxxxxxx"
+github_token = "xxxxxxxxxxxx"
 
 organization = "dasaridevsecops"
 

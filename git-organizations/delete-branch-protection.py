@@ -1,19 +1,10 @@
 import os
 import requests
 
-# ============================================================
-# Configuration
-# ============================================================
-
-#github_token = os.environ["GITHUB_TOKEN"]
 github_token = "xxxxxxxxxx"
 organization_name = "dasaridevsecops"
 repo_name = "devops-practice-terraform"
 branch_name = "main"
-
-# ============================================================
-# GitHub API
-# ============================================================
 
 url = (
     f"https://api.github.com/repos/"
